@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspDotNetLab3", "AspDotNetLab3\AspDotNetLab3.csproj", "{E12326BC-7276-4CDF-9594-CE66FB90EEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E12326BC-7276-4CDF-9594-CE66FB90EEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12326BC-7276-4CDF-9594-CE66FB90EEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12326BC-7276-4CDF-9594-CE66FB90EEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12326BC-7276-4CDF-9594-CE66FB90EEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0D8EC5-1549-4C78-BE6B-3A97B242EFCD}
+	EndGlobalSection
+EndGlobal

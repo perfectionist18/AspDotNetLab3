@@ -1,0 +1,23 @@
+﻿Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\STUDY\ASP\AspDotNetLabs\AspDotNetLab3
+time: 11.07.2022 01:35:03, ip: ::1 /
+time: 11.07.2022 01:36:31, ip: ::1 /Site/Index
+time: 11.07.2022 01:37:29, ip: ::1 /Uk/User/Delete/3
+time: 11.07.2022 01:38:07, ip: ::1 /User/Delete/3
+time: 11.07.2022 01:45:38, ip: ::1 /Cookie/View/par/
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\STUDY\ASP\AspDotNetLabs\AspDotNetLab3
+time: 11.07.2022 01:52:57, ip: ::1 /
+time: 11.07.2022 01:53:13, ip: ::1 /Session/Add/param/8
+time: 11.07.2022 01:53:57, ip: ::1 /Session/View/param
+time: 11.07.2022 01:54:44, ip: ::1 /Cookie/Add/param/10
+time: 11.07.2022 01:55:23, ip: ::1 /Cookie/View/param/
+time: 11.07.2022 01:55:59, ip: ::1 /Cookie/View/sss/
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: E:\STUDY\ASP\AspDotNetLabs\AspDotNetLab3
+time: 11.07.2022 02:19:56, ip: ::1, path: /
+time: 11.07.2022 02:20:01, ip: ::1, path: /Cookie/Add/param/8
+time: 11.07.2022 02:20:29, ip: ::1, path: /Session/Add/param/6
